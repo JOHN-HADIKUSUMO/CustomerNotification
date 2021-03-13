@@ -5,6 +5,11 @@
 https://localhost:5001/message/register
 ```
 
+##### METHOD
+```method
+POST
+```
+
 ##### Payload - JSON
 ```json
 {
