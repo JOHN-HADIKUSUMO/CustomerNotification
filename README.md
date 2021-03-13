@@ -1,4 +1,5 @@
-##### JSON payload example for register new user
+## NewUserRegistered
+##### JSON payload Test
 ```json
 {
     "MessageFormat" : 0,
